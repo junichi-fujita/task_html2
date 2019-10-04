@@ -88,7 +88,7 @@ vertical-align: middle;
 
 /* ここから */
 .function {
-  background-color: rgb(142, 170, 43);
+  background-color: rgba(85, 87, 78, 0.5);
   height: 400px;
   width: 100%;
   padding-top: 30px;
